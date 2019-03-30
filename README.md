@@ -1,5 +1,5 @@
 # Infrared-Small-Target-Detection-based-on-PSTNN
-This matlab code implements the infrared small target detection model based on partial sum of the tensor nuclear norm. Detailed description about this method is in our paper.
+This matlab code implements the infrared small target detection model based on partial sum of the tensor nuclear norm. Detailed description about this method can be found in our paper.
 
 Reference:
 
